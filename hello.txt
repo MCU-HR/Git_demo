@@ -5,4 +5,4 @@ I am MCU-HR3
 I am MCU-HR
 I am MCU-HR
 I am MCU-HR
-I am MCU-HR
+I am MCU-HR hot-fix test
